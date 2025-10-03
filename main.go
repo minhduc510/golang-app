@@ -21,7 +21,7 @@ func getUser(w http.ResponseWriter, r *http.Request) {
 
 	user := User{
 		ID:    1,
-		Name:  "Minh Duc Test 3",
+		Name:  "Minh Duc Test 4",
 		Email: "minhduc@example.com",
 	}
 
